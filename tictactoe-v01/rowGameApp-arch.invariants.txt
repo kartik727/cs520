@@ -1,0 +1,7 @@
+INITIAL AlwaysFollowedBy(t) updates
+manipulates AlwaysFollowedBy(t) updates
+updates AlwaysPrecedes(t) manipulates
+updates AlwaysPrecedes(t) uses
+uses AlwaysFollowedBy(t) manipulates
+uses AlwaysFollowedBy(t) updates
+uses AlwaysPrecedes(t) manipulates
